@@ -1,0 +1,6 @@
+@AiResumeScreenerNet_HostAddress = http://localhost:5292
+
+GET {{AiResumeScreenerNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
